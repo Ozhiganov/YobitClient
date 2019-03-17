@@ -1,0 +1,42 @@
+Web Context
+{
+    "user": {
+        "id": "d80d6601-4b93-4247-a812-63f735eba978",
+        "name": "Ожиганов Евгений Николаевич",
+        "subjectType": "msa",
+        "subjectId": "29f82ea1-2ba4-73b9-a566-f503dfe9da37",
+        "email": "vozro@ya.ru",
+        "uniqueName": "vozro@ya.ru"
+    },
+    "project": {
+        "id": "a4d57577-424e-4a90-8e28-e43e50310c0d",
+        "name": "YobitClient"
+    },
+    "collection": {
+        "id": "6751a4e0-1371-45c2-afe7-735a2a45397d",
+        "name": "vozro",
+        "uri": "https://dev.azure.com/vozro/",
+        "relativeUri": "/vozro/"
+    },
+    "account": {
+        "id": "5325243d-3db9-47fe-b28d-4c6df8ea8e30",
+        "name": "vozro",
+        "uri": "https://dev.azure.com/vozro/",
+        "relativeUri": "/vozro/"
+    },
+    "host": {
+        "id": "6751a4e0-1371-45c2-afe7-735a2a45397d",
+        "name": "vozro",
+        "uri": "https://dev.azure.com/vozro/",
+        "relativeUri": "/vozro/",
+        "hostType": 4,
+        "scheme": "https",
+        "authority": "dev.azure.com"
+    },
+    "team": {
+        "id": "5e671a91-6464-4417-b18a-a9fa0ec932ef",
+        "name": "YobitClient Team"
+    }
+}
+Configuration
+{}
